@@ -3,7 +3,7 @@
   <groupId>org.openx.market.ssrtb</groupId>
   <artifactId>pricecrypter</artifactId>
   <name>PriceCrypter</name>
-  <version>0.0.4</version>
+  <version>0.0.4-run6</version>
   <description>Can encrypt and decrypt price macros.</description>
   
   <distributionManagement>
@@ -30,7 +30,7 @@
     <dependency>
       <groupId>commons-codec</groupId>
       <artifactId>commons-codec</artifactId>
-      <version>1.3</version>
+      <version>1.9</version>
     </dependency>
   </dependencies>
   
